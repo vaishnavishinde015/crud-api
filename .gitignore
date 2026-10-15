@@ -1,0 +1,11 @@
+# Compiled Java classes
+out/
+*.class
+
+# Local SQLite database and temporary journal files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Temporary compiler source list
+sources.txt
